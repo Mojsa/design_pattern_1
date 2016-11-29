@@ -1,0 +1,169 @@
+Uron -------------
+DATUM: 2016.04.22
+Vrijeme: 15:00
+Broj ronioca: 5
+Grupa -------------
+Max dubina: 40
+Ime: Biba
+Ime: Filip
+Ime: Ivo
+Grupa -------------
+Max dubina: 40
+Ime: Vesna
+Ime: Nena
+-------------------
+Uron -------------
+DATUM: 2016.04.20
+Vrijeme: 15:00
+Broj ronioca: 9
+Grupa -------------
+Max dubina: 40
+Ime: Luka
+Ime: Nena
+Ime: Duda
+Grupa -------------
+Max dubina: 40
+Ime: Jura
+Ime: Biba
+Ime: Ivo
+Grupa -------------
+Max dubina: 40
+Ime: Pero
+Ime: Filip
+Ime: Jasna
+Grupa -------------
+Max dubina: 40
+-------------------
+Osobni podaci: -------------
+Ime: Pero
+Godina rodjenja: 1980
+Agencija: CMAS
+Rang: I1
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Filip
+Partner/i: Jasna
+Osobni podaci: -------------
+Ime: Ivo
+Godina rodjenja: 1981
+Agencija: SSI
+Rang: R2
+URON: -------------
+Datum, vrijeme: 2016.04.22/15:00
+Dubina: 40
+Partner/i: Biba
+Partner/i: Filip
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Jura
+Partner/i: Biba
+Osobni podaci: -------------
+Ime: Mato
+Godina rodjenja: 1982
+Agencija: CMAS
+Rang: I3
+Osobni podaci: -------------
+Ime: Luka
+Godina rodjenja: 1981
+Agencija: NAUI
+Rang: R1
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Nena
+Partner/i: Duda
+Osobni podaci: -------------
+Ime: Nina
+Godina rodjenja: 1984
+Agencija: SSI
+Rang: R3
+Osobni podaci: -------------
+Ime: Filip
+Godina rodjenja: 1989
+Agencija: BSAC
+Rang: R2
+URON: -------------
+Datum, vrijeme: 2016.04.22/15:00
+Dubina: 40
+Partner/i: Biba
+Partner/i: Ivo
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Pero
+Partner/i: Jasna
+Osobni podaci: -------------
+Ime: Duda
+Godina rodjenja: 1992
+Agencija: BSAC
+Rang: R5
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Luka
+Partner/i: Nena
+Osobni podaci: -------------
+Ime: Jura
+Godina rodjenja: 1977
+Agencija: BSAC
+Rang: I4
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Biba
+Partner/i: Ivo
+Osobni podaci: -------------
+Ime: Jasna
+Godina rodjenja: 1978
+Agencija: NAUI
+Rang: R3
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Pero
+Partner/i: Filip
+Osobni podaci: -------------
+Ime: Biba
+Godina rodjenja: 1993
+Agencija: NAUI
+Rang: I5
+URON: -------------
+Datum, vrijeme: 2016.04.22/15:00
+Dubina: 40
+Partner/i: Filip
+Partner/i: Ivo
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Jura
+Partner/i: Ivo
+Osobni podaci: -------------
+Ime: Vesna
+Godina rodjenja: 1997
+Agencija: CMAS
+Rang: R2
+URON: -------------
+Datum, vrijeme: 2016.04.22/15:00
+Dubina: 40
+Partner/i: Nena
+Osobni podaci: -------------
+Ime: Tiho
+Godina rodjenja: 1984
+Agencija: CMAS
+Rang: I6
+Osobni podaci: -------------
+Ime: Nena
+Godina rodjenja: 1989
+Agencija: SSI
+Rang: R4
+URON: -------------
+Datum, vrijeme: 2016.04.22/15:00
+Dubina: 40
+Partner/i: Vesna
+URON: -------------
+Datum, vrijeme: 2016.04.20/15:00
+Dubina: 40
+Partner/i: Luka
+Partner/i: Duda
